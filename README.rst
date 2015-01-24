@@ -6,6 +6,7 @@ We're building a fusion center to help governments and law enforcement agencies 
 Join our team!
 ------------
 We're looking for folks to join our cause. We could really use:
+
 * Senior full-stack developer
 * Junior developers (~2)
 * Data scientist  
