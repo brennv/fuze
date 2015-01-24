@@ -183,3 +183,5 @@ Framework
 .. _django-avatar: https://github.com/jezdez/django-avatar/
 .. _Procfile: https://devcenter.heroku.com/articles/procfile
 .. _SendGrid: https://sendgrid.com/
+
+Thank you to Daniel Greenfield for cookiecutter-django.
