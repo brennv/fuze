@@ -3,7 +3,9 @@ fuze
 
 We're building a fusion center to help governments and law enforcement agencies with resources and collaboration to combat trafficing of children worldwide.
 
-We're currently building our team. We're looking for two junior developers, a senior full-stack devloper, a data scientist and a user experience designer. If you'd like to help, send a message or visit ChildRescue.org and send us a message.
+We're currently building our team! We're looking for two junior developers, a senior full-stack devloper, a data scientist and a user experience designer. If you'd like to help send me a message or contact ChildRescue.org.
+
+.. _ChildRescue.org: http://www.childrescue.org/contact.php
 
 Planned features
 ------------
