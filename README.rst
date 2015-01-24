@@ -17,7 +17,7 @@ If you'd like to help send me a message or contact ChildRescue.org.
 We'll be posting team updates here: https://childrescuedev.slack.com
 
 .. _https://childrescuedev.slack.com: https://childrescuedev.slack.com
-.. _ChildRescue.org: http://www.childrescue.org/contact.php
+.. _ChildRescue.org.: http://www.childrescue.org/contact.php
 
 Planned features
 ------------
