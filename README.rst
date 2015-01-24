@@ -1,10 +1,19 @@
 fuze
 ==============================
 
-We're building a fusion center to help governments and law enforcement agencies with resources and collaboration to combat trafficing of children worldwide.
+We're building a fusion center to help governments and law enforcement agencies with resources and collaboration to combat trafficking of children worldwide.
 
-We're currently building our team! We're looking for two junior developers, a senior full-stack devloper, a data scientist and a user experience designer. If you'd like to help send me a message or contact ChildRescue.org.
+We're currently building our team! We're looking for folks to join our cause. We could really use:
+* Senior full-stack developer
+* Junior developers (2)
+* Data scientist  
+* User experience designer
 
+If you'd like to help send me a message or contact ChildRescue.org.
+
+We'll be posting team updates here: https://childrescuedev.slack.com
+
+.. _https://childrescuedev.slack.com: https://childrescuedev.slack.com
 .. _ChildRescue.org: http://www.childrescue.org/contact.php
 
 Planned features
