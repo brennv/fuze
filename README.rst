@@ -3,6 +3,16 @@ fuze
 
 We're building a fusion center to help governments and law enforcement agencies with resources and collaboration to combat trafficing of children worldwide.
 
+We're currently building our team. We're looking for two junior developers, a senior full-stack devloper, a data scientist and a user experience designer. If you'd like to help, send a message or visit ChildRescue.org and send us a message.
+
+Planned features
+------------
+
+* Platform-wide news and update messaging and team viewing
+* Video and wiki content hosting
+* Case file and investigation document sharing
+* Investigation lead development and operations support
+
 
 LICENSE: BSD
 
@@ -150,3 +160,26 @@ You can then deploy by running the following commands.
     ssh -t dokku@yourservername.com dokku run fuze python fuze/manage.py createsuperuser
 
 When deploying via Dokku make sure you backup your database in some fashion as it is NOT done automatically.
+
+Framework
+---------
+
+* For Django 1.7
+* Twitter Bootstrap_ 3
+* AngularJS_
+* Settings management via django-configurations_
+* Registration via django-allauth_
+* User avatars via django-avatar_
+* Procfile_ for deploying to Heroku
+* Heroku optimized requirements
+* Basic caching setup
+* Grunt build for compass and livereload
+* Basic e-mail configurations for send emails via SendGrid_
+
+.. _Bootstrap: https://github.com/twbs/bootstrap
+.. _AngularJS: https://github.com/angular/angular.js
+.. _django-configurations: https://github.com/jezdez/django-configurations
+.. _django-allauth: https://github.com/pennersr/django-allauth
+.. _django-avatar: https://github.com/jezdez/django-avatar/
+.. _Procfile: https://devcenter.heroku.com/articles/procfile
+.. _SendGrid: https://sendgrid.com/
