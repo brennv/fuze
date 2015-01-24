@@ -26,6 +26,7 @@ Planned features
 * Video and wiki content hosting
 * Case file and investigation document sharing
 * Investigation lead development and operations support
+* Add multilingual support
 
 
 LICENSE: BSD
