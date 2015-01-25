@@ -29,6 +29,7 @@ Planned features
 * Add multilingual support
 
 Our current sprint is posted on Scrumblr
+
 .. _Scrumblr: http://scrumblr.ca/childrescuedev
 
 Thank you to Aliasaria for Scrumbler and thank you to PyDanny for cookiecutter-django framework:
