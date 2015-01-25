@@ -12,12 +12,12 @@ We're looking for folks to join our cause. We could really use:
 * Data scientist  
 * User experience designer
 
-If you'd like to help send me a message or contact ChildRescue.org.
+If you'd like to help send me a message or contact ChildRescue.
 
 We'll be posting team updates here: https://childrescuedev.slack.com
 
 .. _https://childrescuedev.slack.com: https://childrescuedev.slack.com
-.. _ChildRescue.org.: http://www.childrescue.org/contact.php
+.. _ChildRescue: http://www.childrescue.org/contact.php
 
 Planned features
 ------------
@@ -28,8 +28,10 @@ Planned features
 * Investigation lead development and operations support
 * Add multilingual support
 
+Our current sprint is posted on Scrumblr
+.. _Scrumblr: http://scrumblr.ca/childrescuedev
 
-Thank you to PyDanny for cookiecutter-django framework:
+Thank you to Aliasaria for Scrumbler and thank you to PyDanny for cookiecutter-django framework:
 
 Framework
 ---------
