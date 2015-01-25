@@ -24,7 +24,7 @@ Planned features
 * Investigation lead development and operations support
 * Add multilingual support
 
-Chat with us on Slack_, ourr current sprint is posted on Scrumblr_.
+Chat with us on Slack_, our current sprint is posted on Scrumblr_.
 
 Thank you to Aliasaria for Scrumbler and thank you to PyDanny for cookiecutter-django framework:
 
