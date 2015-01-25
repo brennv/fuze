@@ -12,11 +12,8 @@ We're looking for folks to join our cause. We could really use:
 * Data scientist  
 * User experience designer
 
-If you'd like to help send me a message or contact ChildRescue_
-.. _ChildRescue: http://www.childrescue.org/contact.php
+If you'd like to help send me a message or contact ChildRescue_.
 
-We'll be communicating with Slack_
-.. _Slack: https://childrescuedev.slack.com
 
 Planned features
 ------------
@@ -27,8 +24,7 @@ Planned features
 * Investigation lead development and operations support
 * Add multilingual support
 
-Our current sprint is posted on Scrumblr_ 
-.. _Scrumblr: http://scrumblr.ca/childrescuedev
+Chat with us on Slack_, ourr current sprint is posted on Scrumblr_.
 
 Thank you to Aliasaria for Scrumbler and thank you to PyDanny for cookiecutter-django framework:
 
@@ -54,6 +50,11 @@ Framework
 .. _django-avatar: https://github.com/jezdez/django-avatar/
 .. _Procfile: https://devcenter.heroku.com/articles/procfile
 .. _SendGrid: https://sendgrid.com/
+.. _ChildRescue: http://www.childrescue.org/contact.php
+.. _Slack: https://childrescuedev.slack.com
+.. _Scrumblr: http://scrumblr.ca/childrescuedev
+
+
 
 LICENSE: BSD
 
