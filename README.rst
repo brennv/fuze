@@ -24,7 +24,10 @@ Planned features
 * Investigation lead development and operations support
 * Add multilingual support
 
-Chat with us on Slack_, our current sprint is posted on Scrumblr_.
+Chat with us on Slack_, our whiteboard is on Scrumblr_.
+
+Sprint details are posted on Trello_, bug tracking on Yodiz_.
+
 
 Thank you to Aliasaria for Scrumbler and thank you to PyDanny for cookiecutter-django framework:
 
@@ -53,6 +56,8 @@ Framework
 .. _ChildRescue: http://www.childrescue.org/contact.php
 .. _Slack: https://childrescuedev.slack.com
 .. _Scrumblr: http://scrumblr.ca/childrescuedev
+.. _Trello: https://trello.com/childrescuedev
+.. _Yodiz: https://www.yodiz.com
 
 
 
